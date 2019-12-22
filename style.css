@@ -1,0 +1,34 @@
+#title,
+#subtitle {
+  text-align: center;
+}
+
+#x-info,
+#y-info{
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.graph {
+  display: block;
+  width: 710px;
+  margin: auto;
+}
+
+.legend {
+  background-color: #999;
+}
+
+circle.dot:hover {
+  stroke-width: 2px;
+  r: 8px;
+}
+
+.d3-tip {
+  background-color: rgba(0, 0, 0, 0.8);
+  border-radius: 6px;
+  color: white;
+  text-align: center;
+  padding: 0.5em;
+  font-size: 1.3rem;
+}
