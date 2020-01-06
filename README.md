@@ -29,11 +29,3 @@ You can have a look at this app [here](https://m-onofri.github.io/scatter-plot/)
 ## Cross-browser consistency 
 
 The project was checked on MacOS in Chrome, Firefox, Opera and Safari, and on these browsers it works properly.
-
-
-
-
-
-
-
-This is a project from freeCodeCamp. The goal of this project is to represent the 35 Fastest times up Alpe d'Huez in cycling races with a scatter plot. This graph compares the performances of riders with doping allegations vs riders without doping allegation. To represent these data I used the D3.js library (Data-Driven Document).
